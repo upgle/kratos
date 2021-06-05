@@ -1166,10 +1166,6 @@ github.com/ory/jsonschema/v3 v3.0.1/go.mod h1:jgLHekkFk0uiGdEWGleC+tOm6JSSP8cbf1
 github.com/ory/jsonschema/v3 v3.0.3 h1:Y7KT4n84ROq8pJ3IMf9JDAulXqYKSU5xUtHjdQFbCLI=
 github.com/ory/jsonschema/v3 v3.0.3/go.mod h1:JvXwbx7IxAkIAo7Qo5OSC1lea+w12DtYGV8h+MTAfnA=
 github.com/ory/kratos v0.6.0-alpha.2/go.mod h1:oF3J9illU6GoaF8w8twQvCBaDRdRdAGaAOHvjU2GLCA=
-github.com/ory/kratos-client-go v0.5.4-alpha.1.0.20210308170950-06c2c1c071a8/go.mod h1:lNIKJWYvMzqPQb94XLV7MZFc5AQpdiR07wzbo+CqZlw=
-github.com/ory/kratos-client-go v0.6.1-alpha.1/go.mod h1:dOQIsar76K07wMPJD/6aMhrWyY+sFGEagLDLso1CpsA=
-github.com/ory/kratos-client-go v0.6.3-alpha.1 h1:nKD4KshiHLfBW+KsNK6o03zGLeRG1pZqnkw9h37R5NE=
-github.com/ory/kratos-client-go v0.6.3-alpha.1/go.mod h1:dOQIsar76K07wMPJD/6aMhrWyY+sFGEagLDLso1CpsA=
 github.com/ory/mail v2.3.1+incompatible h1:vHntHDHtQXamt2T+iwTTlCoBkDvILUeujE9Ocwe9md4=
 github.com/ory/mail v2.3.1+incompatible/go.mod h1:87D9/1gB6ewElQoN0lXJ0ayfqcj3cW3qCTXh+5E9mfU=
 github.com/ory/mail/v3 v3.0.0 h1:8LFMRj473vGahFD/ntiotWEd4S80FKYFtiZTDfOQ+sM=

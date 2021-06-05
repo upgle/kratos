@@ -25,8 +25,10 @@ require (
 	github.com/bwmarrin/discordgo v0.23.0
 	github.com/bxcodec/faker/v3 v3.3.1
 	github.com/cenkalti/backoff v2.2.1+incompatible
+	github.com/containerd/continuity v0.0.0-20200107194136-26c1120b8d41 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/davidrjonas/semver-cli v0.0.0-20190116233701-ee19a9a0dda6
+	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/fatih/color v1.9.0
 	github.com/form3tech-oss/jwt-go v3.2.2+incompatible
 	github.com/ghodss/yaml v1.0.0
@@ -39,6 +41,7 @@ require (
 	github.com/gobuffalo/pop/v5 v5.3.3
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/golang/gddo v0.0.0-20190904175337-72a348e765d2
+	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/mock v1.5.0
 	github.com/google/go-github/v27 v27.0.1
 	github.com/google/go-jsonnet v0.17.0
@@ -59,6 +62,8 @@ require (
 	github.com/mikefarah/yq v1.15.0
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 	github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe
+	github.com/onsi/ginkgo v1.10.3 // indirect
+	github.com/onsi/gomega v1.7.1 // indirect
 	github.com/ory/analytics-go/v4 v4.0.0
 	github.com/ory/cli v0.0.50
 	github.com/ory/dockertest/v3 v3.6.5
@@ -73,9 +78,8 @@ require (
 	github.com/ory/nosurf v1.2.4
 	github.com/ory/x v0.0.238
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
+	github.com/pierrec/lz4 v2.0.5+incompatible // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.9.0
-	github.com/prometheus/common v0.15.0
 	github.com/rs/cors v1.6.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/slack-go/slack v0.7.4
@@ -86,7 +90,9 @@ require (
 	github.com/tidwall/gjson v1.7.1
 	github.com/tidwall/sjson v1.1.5
 	github.com/urfave/negroni v1.0.0
+	go.uber.org/multierr v1.5.0 // indirect
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
 	golang.org/x/oauth2 v0.0.0-20210323180902-22b0adad7558
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/tools v0.1.0
